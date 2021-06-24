@@ -1,7 +1,4 @@
-#   기본 계산기
-#Try this
-#Try again
-#Try again x 1
+#기본 계산기
 
 def add(a,b):
     return a+b
